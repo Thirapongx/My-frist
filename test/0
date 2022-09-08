@@ -1,0 +1,14 @@
+#include<stdio.h>
+main(){
+
+
+    printf{"***Welcome to my profile*** "};
+    printf{"My name is Thirapong Phatwong"};
+    printf{"My nickname is X"};
+    printf{"i like eat food vary well "};
+    printf{"i live in Phayao"};
+    printf{"i like dog and persiancat"};
+    printf{"im age 19 yearold"};
+
+}
+ 
