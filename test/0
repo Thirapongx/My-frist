@@ -11,4 +11,3 @@ main(){
     printf{"im age 19 yearold"};
 
 }
- 
